@@ -5,7 +5,7 @@ This repo contains pretrained models that are to be used for rating anime-styled
 ## ⚙️ Pretrained Models
 | Name       | CLIP Model  | Performance |
 |------------|-------------|-------------|
-| aes-B32-v0 | OpenAI B-32 | 0.0266 |
+| [aes-B32-v0](https://huggingface.co/hakurei/waifu-diffusion-v1-4/resolve/main/models/aes-B32-v0.pth) | OpenAI B-32 | 0.0266 |
 
 ## 🔑 Setup
 
